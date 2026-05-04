@@ -4,7 +4,7 @@ This project demonstrates an end-to-end autonomous Quality Assurance (QA) pipeli
 
 
 
-\## 🚀 Live Demo \& Templates
+\##  Live Demo \& Templates
 
 Want to replicate this system in your own workspace? Use the templates below:
 
@@ -16,7 +16,7 @@ Want to replicate this system in your own workspace? Use the templates below:
 
 
 
-\## 🏗️ Architecture
+\##  Architecture
 
 1\. \*\*Trigger:\*\* Google Forms collects the name of the software module to be tested.
 
@@ -26,7 +26,7 @@ Want to replicate this system in your own workspace? Use the templates below:
 
 
 
-\## 🧠 The AI Prompt (Guardrails Included)
+\##  The AI Prompt (Guardrails Included)
 
 To prevent hallucinations and ensure valid outputs, the following prompt architecture is used in the Groq API step:
 
@@ -40,7 +40,7 @@ To prevent hallucinations and ensure valid outputs, the following prompt archite
 
 
 
-\## ✨ Features
+\##  Features
 
 \- \*\*Zero-Code Integration:\*\* Fully automated workflow.
 
@@ -52,7 +52,7 @@ To prevent hallucinations and ensure valid outputs, the following prompt archite
 
 
 
-\## 📄 Academic Reference
+\##  Academic Reference
 
 This architecture is documented in a formal academic paper formatted according to IEEE standards. You can find the full research paper (Turkish \& English) in the repository files (`IEEE\_TestCase\_Paper.pdf` and `IEEE\_TestCase\_Paper.docx`).
 
